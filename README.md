@@ -19,8 +19,12 @@ A tabela contém informações dos investimentos feitos pelo youtube, facebook,
 newspaper e também a quantidade de cada.
 
 Coluna | Descrição
+
 youtube | Investimento youtube
+
 facebook | Investimento facebook
+
 newspaper | Investimento newspaper
+
 sales | Valor das vendas
 
