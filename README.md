@@ -1,5 +1,4 @@
-#Modelo de Regressão para marketing
-Construindo um modelo de Regressão para marketing (desafio 4)
+#Construindo um modelo de Regressão para marketing (desafio 4)
 
 #Uma empresa está investindo mensalmente em plataformas de publicidade online,
 como Youtube, Facebook e newspaper, para a prospecção de leads (pessoas
